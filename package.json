@@ -2,6 +2,6 @@
   "name": "meu-projeto",
   "version": "1.0.0",
   "scripts": {
-    "start": "bun run index.html"
+    "start": "bun --watch run server.js"
   }
 }
