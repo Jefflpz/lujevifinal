@@ -89,7 +89,7 @@ p {
 .cover-image img {
     width: 100%;
     height: auto;
-    display: block;
+    /* display: block; */
 }
 
 .cover-bottom {
@@ -169,7 +169,7 @@ p {
     width: 100%;
     height: auto;
     max-width: 200px;
-    display: block;
+    /*display: block; */
     margin: 0 auto 20px auto;
     border-radius: 5px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -278,7 +278,7 @@ p {
     width: 100%;
     height: auto;
     max-width: 250px;
-    display: block;
+    /*display: block;*/
     margin: 15px auto 20px auto;
     border-radius: 5px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -360,7 +360,7 @@ p {
     width: 100%;
     max-width: 250px;
     height: auto;
-    display: block;
+    /*display: block;*/
     margin: 20px auto;
     border-radius: 5px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
@@ -377,7 +377,7 @@ p {
 /* General Image and Text Alignment */
 .magazine-section img {
     margin: 0 auto; /* Center images within their container */
-    display: block;
+    /*display: block;*/
 }
 
 /* Responsive Design */
@@ -537,7 +537,7 @@ p {
 .navbar-logo img {
     max-width: 150px; /* Adjust this value to your desired maximum width */
     height: auto; /* Maintain aspect ratio */
-    display: block; /* Removes extra space below the image */
+    /*display: block;*/ /* Removes extra space below the image */
 }
 /* Footer Styling */
 .site-footer {
@@ -656,5 +656,5 @@ p {
     margin: 20px 0;
     border-radius: 5px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-    display: block;
+    /*display: block;*/
 }
